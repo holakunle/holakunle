@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @holakunle
-- 👀 I’m interested in Ethical hacking, cybersecurity 
-- 🌱 I’m currently learning more on cybersecurity with kali linux
-- 💞️ I’m looking to collaborate on cybersecurity 
+- 👀 I’m interested in Devops, cybersecurity 
+- 🌱 I’m currently learning more Devops tools
+- 💞️ I’m looking to collaborate on Devops
 - 📫 How to reach me holakunle69@gmail.com 
 
 <!---
